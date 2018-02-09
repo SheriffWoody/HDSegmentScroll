@@ -1,0 +1,34 @@
+PODS:
+  - DKNightVersion (2.4.3):
+    - DKNightVersion/Core (= 2.4.3)
+    - DKNightVersion/CoreAnimation (= 2.4.3)
+    - DKNightVersion/UIKit (= 2.4.3)
+  - DKNightVersion/Core (2.4.3):
+    - DKNightVersion/Core/DeallocBlockExecutor (= 2.4.3)
+    - DKNightVersion/Core/extobjc (= 2.4.3)
+  - DKNightVersion/Core/DeallocBlockExecutor (2.4.3)
+  - DKNightVersion/Core/extobjc (2.4.3)
+  - DKNightVersion/CoreAnimation (2.4.3):
+    - DKNightVersion/Core
+  - DKNightVersion/UIKit (2.4.3):
+    - DKNightVersion/Core
+  - HDSegmentScroll (0.0.1):
+    - DKNightVersion
+    - Masonry
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - HDSegmentScroll (from `../`)
+
+EXTERNAL SOURCES:
+  HDSegmentScroll:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DKNightVersion: eaa80cc4014b4bae7d4b535fd87ecc6a3c2767b3
+  HDSegmentScroll: bc38f3ca3a4ec3bdd10ed5139cdd9aacc55e5038
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 08a9068379dfcd0911c111e4cddd220957415acd
+
+COCOAPODS: 1.4.0
