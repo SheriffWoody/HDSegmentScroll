@@ -7,7 +7,8 @@
 //
 
 #import "HDScrollView.h"
-#import <Masonry.h>
+#import "Masonry.h"
+#import "DKNightVersion.h"
 
 @interface HDScrollView()<UIScrollViewDelegate>
 @property (nonatomic, strong) UIScrollView *mScrollView;

@@ -7,8 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <DKNightVersion.h>
-#import <Masonry.h>
+#import "DKNightVersion.h"
 
 typedef NS_ENUM(NSUInteger, HDSegmentType) {
     HDSegmentType_Constant = 0, // 一屏均分

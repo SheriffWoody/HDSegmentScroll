@@ -7,7 +7,6 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <DKNightVersion.h>
 
 @class HDScrollView;
 

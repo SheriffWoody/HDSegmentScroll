@@ -7,7 +7,7 @@
 //
 
 #import "HDSegmentControl.h"
-#import "HDSegmentCollectionViewCell.h"
+#import "Masonry.h"
 
 @interface HDSegmentControl()
 <
