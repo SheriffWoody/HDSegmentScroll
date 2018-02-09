@@ -9,6 +9,7 @@
 #import "HDSegmentControl.h"
 #import "HDSegmentCollectionViewCell.h"
 #import "Masonry.h"
+#import "DKNightVersion.h"
 
 @interface HDSegmentControl()
 <
