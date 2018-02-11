@@ -8,7 +8,7 @@
 
 #import "SegmentControlViewController.h"
 #import "HDSegmentControl.h"
-
+#import <Masonry.h>
 @interface SegmentControlViewController ()
 <
 HDSegmentControlDataSource,

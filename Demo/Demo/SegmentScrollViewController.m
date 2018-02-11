@@ -7,7 +7,7 @@
 //
 
 #import "SegmentScrollViewController.h"
-
+#import <Masonry.h>
 @interface SegmentScrollViewController ()
 <
 HDSegmentScrollViewDataSource,

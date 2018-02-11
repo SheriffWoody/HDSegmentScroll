@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "SegmentScrollViewController.h"
 #import "SegmentControlViewController.h"
+#import <Masonry.h>
 @interface ViewController ()
 <
 UITableViewDelegate,
