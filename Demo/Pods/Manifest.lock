@@ -12,23 +12,19 @@ PODS:
     - DKNightVersion/Core
   - DKNightVersion/UIKit (2.4.3):
     - DKNightVersion/Core
-  - HDSegmentScroll (0.0.1):
+  - HDSegmentScroll (0.0.2):
     - DKNightVersion
     - Masonry
   - Masonry (1.1.0)
 
 DEPENDENCIES:
-  - HDSegmentScroll (from `../`)
-
-EXTERNAL SOURCES:
-  HDSegmentScroll:
-    :path: ../
+  - HDSegmentScroll
 
 SPEC CHECKSUMS:
   DKNightVersion: eaa80cc4014b4bae7d4b535fd87ecc6a3c2767b3
-  HDSegmentScroll: bc38f3ca3a4ec3bdd10ed5139cdd9aacc55e5038
+  HDSegmentScroll: c0be9d1aeec45bcf2776925df9d1543d33baeab8
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
 
-PODFILE CHECKSUM: 08a9068379dfcd0911c111e4cddd220957415acd
+PODFILE CHECKSUM: 8f454353dbbb72d9ee09d94c6f170a4ac720aee8
 
 COCOAPODS: 1.4.0

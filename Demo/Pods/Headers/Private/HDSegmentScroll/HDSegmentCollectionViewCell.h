@@ -1,1 +1,1 @@
-../../../../../HDSegmentScroll/HDSegmentCollectionViewCell.h
+../../../HDSegmentScroll/HDSegmentScroll/HDSegmentCollectionViewCell.h

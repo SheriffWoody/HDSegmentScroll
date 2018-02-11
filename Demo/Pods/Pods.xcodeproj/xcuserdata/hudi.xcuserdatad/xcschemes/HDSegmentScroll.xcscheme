@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = 'primary'
-               BlueprintIdentifier = '0BB347737D633C968CC90DA4E071E5E0'
+               BlueprintIdentifier = 'A408B21CB38337FB07A0E7300736ECC0'
                BlueprintName = 'HDSegmentScroll'
                ReferencedContainer = 'container:Pods.xcodeproj'
                BuildableName = 'libHDSegmentScroll.a'>

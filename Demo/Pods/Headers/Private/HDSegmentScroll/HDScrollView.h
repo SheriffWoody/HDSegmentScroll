@@ -1,1 +1,1 @@
-../../../../../HDSegmentScroll/HDScrollView.h
+../../../HDSegmentScroll/HDSegmentScroll/HDScrollView.h

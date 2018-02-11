@@ -9,6 +9,6 @@ target 'Demo' do
   # ignore all warnings from all pods
   inhibit_all_warnings!
   
-  pod "HDSegmentScroll", :path => "../"
+  pod "HDSegmentScroll" #, :path => "../"
 
 end
